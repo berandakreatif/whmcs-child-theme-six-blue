@@ -1,0 +1,7 @@
+# My Theme Configuration File
+
+name: "Six Blue Theme"
+description: "Blue Theme For Six Template"
+author: "Beranda Kreatif"
+config:
+  parent: six
